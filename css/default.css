@@ -1,0 +1,13 @@
+.CurrentData{
+	color: #ff0;
+	background-color: #000;
+}
+
+.TopBar *{
+	font-size: 14px;
+	padding: 2px 10px 2px 10px;
+	border: 1px solid #aaa;
+	border-left: 2px;
+	border-top: 0;
+	border-bottom: 0;
+}
